@@ -1,0 +1,17 @@
+
+go mod init
+go mod tidy
+go get commands
+include the packages of go fiber
+access all files in ./views folder
+create fiber app with html engine
+apply logger and other middlewares
+add function to websocket endpoint
+create welcome function 
+create main file in layout
+create header html
+create footer html
+addd function to create Room
+addd function to create Room for websocket for chatting
+addd function for creating room again
+add function for creating and getting the room
